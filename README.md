@@ -150,5 +150,3 @@ Networking_Fundamentals/
 ├── Networking_Fundamentals.pdf
 └── README.md
 ```
-* Network Security
-* Penetration Testing Fundamentals
