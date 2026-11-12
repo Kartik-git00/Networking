@@ -2,6 +2,16 @@
 
 This repository contains my notes and learning materials for **Networking Fundamentals**, covering the core concepts required for Cybersecurity, System Administration, Cloud Computing, and Networking.
 
+## 🧭 Learning navigation
+
+[Study HQ in Notion (access required)](https://www.notion.so/41623e7864a4813e8866cd71e4a21dca) · [Repository guide](docs/LEARNING-WORKFLOW.md)
+
+| Linux | Networking | Bash | Application project |
+| --- | --- | --- | --- |
+| [linux-fundamentals](https://github.com/Kartik-git00/linux-fundamentals) | [Networking](https://github.com/Kartik-git00/Networking) | [Bash-Scripting](https://github.com/Kartik-git00/Bash-Scripting) | [Skill-Build](https://github.com/Kartik-git00/Skill-Build) |
+
+Notion holds detailed study notes and revision. GitHub holds original code, sanitized reports and project evidence. New roadmap labs remain **not started / completion unverified** until the learner records actual work; documentation and reference code are not lab completion.
+
 ## Topics Covered
 
 ### 🌐 Introduction to Networks
@@ -150,3 +160,7 @@ Networking_Fundamentals/
 ├── Networking_Fundamentals.pdf
 └── README.md
 ```
+
+## Quick start
+
+Read [the original PDF](Networking_Fundamentals.pdf), explain one protocol in your own words, then create a diagram or authorized local exercise report using [the template](templates/lab-report.md). Put sanitized new reports in reports/ and link their commits to Notion. The folder name shown in the original structure block is a descriptive label; the repository is Networking.
